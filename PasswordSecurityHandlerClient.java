@@ -4,7 +4,6 @@
 // we call the securityLevel method of the PasswordSecurityHandler class and output 
 // the strength of the password.
 
-
 import java.util.Scanner;
 
 public class PasswordSecurityHandlerClient {
